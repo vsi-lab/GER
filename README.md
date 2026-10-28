@@ -17,4 +17,4 @@ Supplementary materials for **Graph-Based Evidence Recovery for Surgical Questio
 
 The CSV files preserve the supplied assessment records without alteration. They document correspondence with the cited sources; they are not independent clinical validation. The supplementary PDF describes the assessment scope and automated assistance.
 
-These materials form **Online Resource 1** accompanying the manuscript. The remaining evaluation data and code are available upon reasonable request from the corresponding author.
+These files provide the supplementary material accompanying the manuscript. The remaining evaluation data and code are available upon reasonable request from the corresponding author.
