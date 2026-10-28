@@ -4,7 +4,6 @@ Supplementary materials for **Graph-Based Evidence Recovery for Surgical Questio
 
 **Authors:** Eungjoo Lee, Manglam Srivastav, and Abhimanyu Pandey  
 **Affiliation:** The University of Arizona  
-**Journal:** International Journal of Computer Assisted Radiology and Surgery  
 **Corresponding author:** eungjoolee@arizona.edu
 
 ## Materials
