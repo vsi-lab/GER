@@ -2,10 +2,6 @@
 
 Supplementary materials for **Graph-Based Evidence Recovery for Surgical Question Answering**.
 
-**Authors:** Eungjoo Lee, Manglam Srivastav, and Abhimanyu Pandey  
-**Affiliation:** The University of Arizona  
-**Corresponding author:** eungjoolee@arizona.edu
-
 ## Materials
 
 | File | Contents |
